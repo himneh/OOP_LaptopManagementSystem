@@ -1,0 +1,11 @@
+Apple; Macbook Air Late 2020; M1; 8; 256; 0; 999; 1188; 15
+HP; Spectre x360 14; i5; 8; 16; 256; 1199; 1408; 20
+LG; Gram 17Z90P; i7; 16; 0; 1000; 1545; 1789; 35
+Dell; XPS 13; i5; 8; 0; 256; 1150; 1355; 15
+Dell; XPS 13; i7; 32; 0; 1000; 1950; 2235; 15
+ASUS; ROG Zephyrus G15 3070; Ryzen 9; 24; 0; 2000; 2399; 2728; 16
+Lenovo; ThinkPad X1 Nano; i5; 8; 0; 256; 1487; 1725; 17
+Razer; Book 13; i7; 16; 256; 1000; 1718; 1979; 18
+Microsoft; Surface Pro 7; i7; 16; 0; 1000; 750; 1050; 15
+Microsoft; Surface Pro 8; 16; 16; 1000; 2000; 1050; 1350; 16
+Microsoft; Surface Pro 5; i5; 8; 1000; 0; 550; 850; 16

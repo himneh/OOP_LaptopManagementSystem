@@ -1,0 +1,11 @@
+IG || 4 30 2019 || Nganj || Razer; Book 13; i7; 16; 256; 1000; 1718; 1979; 4 || 1 || 1979
+G2 || 11 20 2019 || Jennie Kim || ASUS; ROG Zephyrus G15 3070; Ryzen 9; 24; 0; 2000; 2399; 2728; 10 || 1 || 2728
+GG || 9 2 2020 || Chaeyoung Park || LG; Gram 17Z90P; i7; 16; 0; 1000; 1545; 1789; 5 || 1 || 1789
+A1 || 1 3 2021 || Lil Minh || Dell; XPS 13; i7; 32; 0; 1000; 1950; 2235; 3 || 2 || 4470
+T1 || 2 4 2021 || MTP Son Tung || HP; Spectre x360 14; i5; 8; 16; 256; 1199; 1408; 1 || 1 || 1408
+SN || 3 26 2021 || Ha Lan || Dell; XPS 13; i5; 8; 0; 256; 1150; 1355; 2 || 1 || 1355
+NS || 5 6 2021 || G Dragon || Dell; XPS 13; i7; 32; 0; 1000; 1950; 2235; 3 || 1 || 2235
+FB || 6 1 2021 || Jisoo Kim || Apple; Macbook Air Late 2020; M1; 8; 256; 0; 999; 1188; 2 || 1 || 1188
+C9 || 7 4 2021 || Lil Thai || Apple; Macbook Air Late 2020; M1; 8; 256; 0; 999; 1188; 2 || 1 || 1188
+DK || 7 16 2021 || Lil Le || ASUS; ROG Zephyrus G15 3070; Ryzen 9; 24; 0; 2000; 2399; 2728; 10 || 5 || 13640
+B2 || 8 5 2021 || Lil Binh || Lenovo; ThinkPad X1 Nano; i5; 8; 0; 256; 1487; 1725; 2 || 1 || 1725

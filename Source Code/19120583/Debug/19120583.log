@@ -1,0 +1,10 @@
+﻿  19120583.cpp
+C:\Users\User\source\repos\OOP\Final\19120583\19120583\19120583.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\OOP\Final\19120583\19120583\19120583.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\OOP\Final\19120583\19120583\19120583.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\OOP\Final\19120583\19120583\19120583.cpp(388,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\User\source\repos\OOP\Final\19120583\19120583\19120583.cpp(411,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\OOP\Final\19120583\19120583\19120583.cpp(424,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\OOP\Final\19120583\19120583\19120583.cpp(466,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\User\source\repos\OOP\Final\19120583\19120583\19120583.cpp(823,39): warning C4018: '<': signed/unsigned mismatch
+  19120583.vcxproj -> C:\Users\User\source\repos\OOP\Final\19120583\Debug\19120583.exe

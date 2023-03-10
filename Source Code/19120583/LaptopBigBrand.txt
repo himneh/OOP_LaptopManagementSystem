@@ -1,0 +1,11 @@
+Lenovo
+HP
+Dell
+ASUS
+ACER
+Apple
+Google
+LG
+Razer
+VAIO
+Microsoft
